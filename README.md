@@ -43,7 +43,9 @@ This will give you one of two things:
 * An image you could throw into an `img` tag:
 
 Ex:
-`<img src="http://rgb.com/create/a/100/by/100/image/with/blue/text/that/says/helloworld/with/border/color/black/using/thumbnail/something.com/image.png" />`
+```
+<img src="http://rgb.com/create/a/100/by/100/image/with/blue/text/that/says/helloworld/with/border/color/black/using/thumbnail/something.com/image.png" />
+```
 
 * Some generated Markdown friendly html for embedding the button in a README or something like it:
 
