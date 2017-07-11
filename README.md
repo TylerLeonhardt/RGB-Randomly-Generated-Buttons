@@ -30,7 +30,7 @@ Create Markdown button images to link to anything.
 
 ## Why do this?
 
-Consistancy is really nice. Take a look at this repo:
+Consistency is really nice. Take a look at this repo:
 https://github.com/mtntop/mtnbot/blob/master/README.md#current-platforms
 
 It looks TERRIBLE because all of the images were different sizes and when they were made the same size, some became pixelated.
